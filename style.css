@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: black;
+    color: white;
+}
+pre{
+    color: yellow;
+    font-size: 23px;
+}
+ pre span{
+    color: palevioletred ;
+    font-size: 30px;
+}
+h2{
+    color: aqua;
+    font-size: 20px;
+}
+#studentName{
+    text-align: center;
+    font-size: 25px;
+}
+#q2{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+#Details{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+#marks{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+#names{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+#q6{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+#q7{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 251, 0);
+}
+#studentlist{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
